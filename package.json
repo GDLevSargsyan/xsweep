@@ -1,0 +1,10 @@
+{
+  "name": "xsweep",
+  "version": "1.0.0",
+  "description": "Delete your X (Twitter) posts that got fewer than N views: one paste into the browser console.",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test"
+  }
+}
