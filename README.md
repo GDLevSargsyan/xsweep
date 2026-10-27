@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/dependencies-none-2ea44f" alt="no dependencies">
   <img src="https://img.shields.io/badge/runs-in%20your%20browser-1d9bf0" alt="runs in your browser">
   <a href="https://github.com/GDLevSargsyan/xsweep/stargazers"><img src="https://img.shields.io/github/stars/GDLevSargsyan/xsweep?style=flat&color=f5c542" alt="GitHub stars"></a>
+  <a href="https://instagram.com/gdlevs"><img src="https://img.shields.io/badge/Instagram-%40gdlevs-E4405F" alt="Instagram @gdlevs"></a>
 </p>
 
 **xsweep** deletes the posts on your X (Twitter) profile that got **fewer than N views**: the ones nobody saw. It is a single file you paste into the browser console. No install, no login, no API key, no extension.
@@ -98,6 +99,12 @@ node --test
 ```
 
 The tests cover the pure logic (reading view counts, the keep/delete decision, the page check). The browser part needs a real X page and is not run in CI.
+
+## Contact and orders
+
+xsweep is made by **GD**, a small studio for cinematic edits and handy tools. Questions, ideas, collaboration, custom work or orders:
+
+- Instagram: [@gdlevs](https://instagram.com/gdlevs)
 
 ## License
 
